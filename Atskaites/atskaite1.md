@@ -1,5 +1,5 @@
 # **ATSKAITE**
-Grats - Sadalīja un organizēja darbus, izveidoja prezentāciju, kā arī prezentēja paveikto, uzrakstīja projekta aprakstu, palīdzēja shēmu izveidošanā, izveidoja "Sarunas shēmu".
+Grats - Sadalīja un organizēja darbus, izveidoja prezentāciju, kā arī prezentēja paveikto, uzrakstīja projekta aprakstu, palīdzēja shēmu izveidošanā, izveidoja shēmu, kuras nosaukums ir "Sarunas shēmu".
 
 Ansis - Izveidoja klienta un server kodu kā arī iztulkoja latviešu valodā, izveidoja shēmu Nr.3, izdomāja grupas nosaukumu - "Melnstrādnieki".
 
