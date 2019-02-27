@@ -14,3 +14,5 @@ Edgars - Izveidoja primāro un advancēto shēmu pēc interneta paraugu, palīdz
 
 #### *Nobeigums*
 Šī mēneša laikā ir paveikts ļoti daudz, gan struktūras ziņā, gan koda izpildes ziņā, bet protams liels darbs vēl ir priekšā!
+
+Atskaite rakstīta kopīgi grupas ietvaros. 27.02.2019
