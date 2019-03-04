@@ -1,1 +1,1 @@
-# **Šajā mapē tiks pievienoti python servera un klienta kodi**
+# **Šajā mapē tiks pievienoti python servera un klienta kodi!**
