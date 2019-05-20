@@ -1,3 +1,4 @@
+Trīs galvenie iemesli, kāpēc mūsu projekts ir saistīs ar distributīvajām sistēmām.
 1. No Global Time- Nav globāls laiks
 "Chatroom" var pieslēgties jeb nokuras vietas pasaulē neatkarīgi no laika joslas.
 2. Concurrency - Vienlaicība
